@@ -16,7 +16,7 @@
 * [Science – Possibilities of Aesthetic Medicine](part-2/science-possibilities-of-aesthetic-medicine.md)
 * [CHAPTER 4: Concerning the Newbies](part-2/chapter-4-concerning-the-newbies.md)
 * [CHAPTER 5: Concerning the Informed](part-2/chapter-5-concerning-the-informed.md)
-* [CHAPTER 6: Concerning the DIY Diehards](part-2/chapter-6-concerning-the-diy-diehards.md)
+* [CHAPTER 6: Concerning the DIY Prosumers](part-2/chapter-6-concerning-the-diy-prosumers.md)
 
 ## PART 3
 
