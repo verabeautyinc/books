@@ -1,7 +1,6 @@
 ---
 description: ...for the next 100 years
-cover: .gitbook/assets/banner.png
-coverY: 0
+hidden: true
 ---
 
 # Raising the World's Skin Game
